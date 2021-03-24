@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Hello, World!</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -451,7 +451,7 @@
 
                         <div class="ml-12">
                             <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                <p>Please log in to see some projects!
+                                <p>Please log in with the provided credentials or create your own account to see some projects!
                                 <p>
                                 <div style="border-radius: 1em; background-color:#f4f4f4; padding: .5em 1em;">
 
